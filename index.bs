@@ -725,6 +725,12 @@ In the <a>HTML Processing Model</a>, under the "<i>Update the rendering</i>" ste
 <ul>The |document| does not have <a>pending initial IntersectionObserver targets</a>.</ul>
 
 <!-- ============================================================ -->
+<h2 id=accessibility>Accessibility Considerations</h2>
+<!-- ============================================================ -->
+
+*This section is non-normative.*
+
+<!-- ============================================================ -->
 <h2 id=acknowledgements>Acknowledgements</h2>
 <!-- ============================================================ -->
 
